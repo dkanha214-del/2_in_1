@@ -5,7 +5,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 import threading
 
 # 🔴 BOT TOKEN YAHAN DALO
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN"
+BOT_TOKEN = "8527393609:AAFMuV3dL3ucpuYRF7op2xM18JhtxgfRllg"
 
 app = Flask(__name__)
 
