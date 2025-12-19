@@ -42,7 +42,7 @@ async def add(update: Update, context: ContextTypes.DEFAULT_TYPE):
             "1080": l1080
         }
 
-        base = "https://YOUR_RENDER_URL.onrender.com"
+        base = "https://two-in-1.onrender.com"
 
         msg = (
             "✅ Single Link Created\n\n"
